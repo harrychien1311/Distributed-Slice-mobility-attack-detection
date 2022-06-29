@@ -1,0 +1,2 @@
+# Distributed-Slice-mobility-attack-detection
+Inter-slice mobility in 5G networks allows mobility of user sessions from one network slice to another. A novel targeted attack against network slices of 5G networks by exploiting the user equipment-initiated inter-slice mobility will be mentioned here. We name this attack as distributed slice mobility (DSM) attack. The performance and economic damage caused by the DSM attack is higher than the denial-of-service and Yo-Yo attacks. We will deep learning model to detect this kind of attack efficiently
